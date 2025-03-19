@@ -128,3 +128,4 @@ maior movimento de vida humana registrado na história.
 ### Anos 4500 da União
 
 Encontramos... Alienígenas?
+![[MissionStart.png]]
