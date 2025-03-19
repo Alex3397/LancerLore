@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cronologia Detalhada.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -139,9 +139,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "9b04b04c6fa94693",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +164,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f26db54d2a7bb30",
-  "lastOpenFiles": []
+  "active": "9b04b04c6fa94693",
+  "lastOpenFiles": [
+    "/Imagens/Manticore.png",
+    "/Imagens/Blackbeard.png",
+    "/Imagens",
+    "Imagens/Manticore.png",
+    "Imagens/Blackbeard.png",
+    "A União/Ideologia/Princípios Perdidos.md",
+    "A União/Ideologia/Os pilares utópicos.md",
+    "Cronologia Detalhada.md",
+    "Imagens/MissionStart.png",
+    "Imagens/LichBattle.png",
+    "Imagens/Everest.jpg",
+    "/Imagens/MissionStart.png",
+    "/Imagens/LichBattle.png",
+    "/Imagens/Everest.jpg",
+    "/Cronologia Detalhada.md",
+    "/A União/Ideologia/Dados Redigidos.md",
+    "/A União/Ideologia",
+    "/A União",
+    "Imagens"
+  ]
 }

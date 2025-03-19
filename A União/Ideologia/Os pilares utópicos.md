@@ -10,4 +10,4 @@
 \
 	A escassez de recursos naturais é uma premissa falsa, um mito e uma ferramenta usada para enriquecer alguns enquanto oprimem muitos. A dignidade da vida humana é primordial em todos os mundos, seja no Núcleo ou na Diáspora. Explorar as pessoas e seu trabalho enquanto nega a elas uma compensação justa é abominável.
 	<br>
-[[Dados Redigidos]]
+[[Princípios Perdidos]]
