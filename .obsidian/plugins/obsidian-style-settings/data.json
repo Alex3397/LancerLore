@@ -3,7 +3,14 @@
   "encore-settings@@encore-translucency": true,
   "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@theme-light": "encore-theme-light",
-  "encore-settings@@encore-translucency-strength": 0.5,
+  "encore-settings@@encore-translucency-strength": 0.75,
   "encore-settings@@encore-translucency-blur-amount": 0,
-  "encore-settings@@encore-translucency-image": "url(\"https://pbs.twimg.com/media/FecHCYxXkAE8WLa.jpg:large\")"
+  "encore-settings@@encore-translucency-image": "url(\"https://raw.githubusercontent.com/Alex3397/LancerLore/refs/heads/main/Imagens/MissionStart.png\")",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-translucency": true,
+  "encore-settings@@encore-bright-accent": true,
+  "encore-settings@@blur-amount": "encore-blur-less",
+  "encore-settings@@encore-highlight-border": false,
+  "encore-settings@@encore-coloured-tooltip": false,
+  "encore-settings@@encore-disable-grain": false
 }

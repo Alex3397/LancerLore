@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500
+    "width": 773
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d565d4ea68fdc1bd",
+  "active": "ab631dbfdb246a52",
   "lastOpenFiles": [
     "Imagens/Blackbeard.png",
     "Imagens/Manticore.png",
