@@ -1,1 +1,0 @@
-../Cronologia Detalhada.md
