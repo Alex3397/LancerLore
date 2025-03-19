@@ -5,20 +5,20 @@
 <span class="censor">5. **Abolição da Propriedade Privada dos Meios de Produção.**</span><br>
 	<span class="censor">Uma única pessoa deveria ter controle de todas as fábricas da galáxia? Dizer como e o que deveriam produzir? Para onde a produção iria? O que seria feito com ela se fosse produzido demais ou de menos? Tal poder não deveria ser de toda a sociedade?</span> Porquê deveríamos aceitar que tudo que produzissemos fosse mandado para outros planetas enquanto não resta nada para nós <span class="censor">a não ser as sobras que caem da mesa dos mais abastados</span>? Não faz sentido que nós devêssemos controlar como produzimos, o que criamos, para quem será feito e qual finalidade nossas criações terão? Afinal se somos nós que criamos o tudo, tudo a nós pertence.
 	<br>
-4. **Ditadura do Proletariado**<br>
+6. **Ditadura do Proletariado**<br>
     Em uma fase transitória, o proletariado deve assumir o controle do Estado para reorganizar a sociedade e suprimir a resistência da burguesia, até que as classes sociais sejam eliminadas.
     <br>
-5. **Sociedades Sem Classes**<br>
+7. **Sociedades Sem Classes**<br>
 	   O objetivo final é uma sociedade onde não haja divisão entre ricos e pobres, nem exploração, e todos tenham acesso igualitário aos recursos e oportunidades.
 	   <br>
-6. **Internacionalismo Proletário**<br>
+8. **Internacionalismo Proletário**<br>
 	   O comunismo defende a união dos trabalhadores de todos os países, transcendendo fronteiras nacionais, para combater o capitalismo globalmente.
 	   <br>
-7. **Planejamento Econômico Centralizado**<br>
+9. **Planejamento Econômico Centralizado**<br>
 	   A economia seria planejada e controlada pelo Estado ou pela comunidade, visando atender às necessidades da população, em vez de buscar lucro.
 	   <br>
-8. . **Educação e Cultura para Todos**<br>
+10. . **Educação e Cultura para Todos**<br>
 	O comunismo prega o acesso universal à educação e à cultura, como forma de emancipação e desenvolvimento humano.
    <br>
-9. **Extinção do Estado**<br>
+11. **Extinção do Estado**<br>
     Em sua fase final, o comunismo prevê a extinção do Estado, já que, em uma sociedade sem classes, não haveria necessidade de um aparato coercitivo para manter a ordem.
