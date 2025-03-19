@@ -1,0 +1,10 @@
+{
+  "findText": "||",
+  "replaceText": "<span class=\"censor\">",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

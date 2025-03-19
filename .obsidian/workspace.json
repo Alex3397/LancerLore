@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0986951c0b8afc1e",
+        "id": "dd015d57fc039d30",
         "type": "tabs",
         "children": [
           {
-            "id": "671f2649d7b10b65",
+            "id": "f2fb801bb6b4a4bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cronología Detalhada.md",
+                "file": "A União/Ideologia/Dados Redigidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronología Detalhada"
+              "title": "Dados Redigidos"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "eda23cd392c388a4",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cronología Detalhada.md",
+                "file": "A União/Ideologia/Dados Redigidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cronología Detalhada"
+              "title": "Backlinks for Dados Redigidos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cronología Detalhada.md",
+                "file": "A União/Ideologia/Dados Redigidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cronología Detalhada"
+              "title": "Outgoing links from Dados Redigidos"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cronología Detalhada.md",
+                "file": "A União/Ideologia/Dados Redigidos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cronología Detalhada"
+              "title": "Outline of Dados Redigidos"
             }
           },
           {
@@ -180,6 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "671f2649d7b10b65",
-  "lastOpenFiles": []
+  "active": "f2fb801bb6b4a4bd",
+  "lastOpenFiles": [
+    "A União/Ideologia/Os pilares utópicos.md",
+    "A União/Ideologia/Dados Redigidos.md",
+    "Cronologia Detalhada.md",
+    "Cronología Detalhada.pdf"
+  ]
 }

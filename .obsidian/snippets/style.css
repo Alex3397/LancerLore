@@ -1,0 +1,8 @@
+.censor {
+    background-color: black;
+    color: black;
+}
+
+.censor:hover {
+    color: white;
+}
