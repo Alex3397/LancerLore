@@ -40,9 +40,7 @@ ___
 # Fundação da União
 ### Ano 0 da União
 
-A conclusão das pequenas guerras se deu antes que outra catástrofe acontecesse, as nações que estavam em guerra decidiram cessar fogo para que não voltássemos à mais uma nova era das trevas, e então houve o acordo para cessar todas as guerras. E assim <span class="censor">a Hegemonia Imperialista se rendeu e os acordos firmados pela Ação Libertadora Mundial e a família Fùyì Guǐmó (富义诡谋)</span> estabelecem a fundação onde seria construída a União, são criados o Comitê da União e os pilares utópicos são <span></span> definidos:
-<span style="background-color: #000; color: #000">your text</span>
-
+A conclusão das pequenas guerras se deu antes que outra catástrofe acontecesse, as nações que estavam em guerra decidiram cessar fogo para que não voltássemos à mais uma nova era das trevas, e então houve o acordo para cessar todas as guerras. E assim <span class="censor">a Hegemonia Imperialista se rendeu e os acordos firmados pela Ação Libertadora Mundial e a família Fùyì Guǐmó (富义诡谋)</span> estabelecem a fundação onde seria construída a União, são criados o Comitê da União e os pilares utópicos são definidos:
 
 ![[Os pilares utópicos]]
 

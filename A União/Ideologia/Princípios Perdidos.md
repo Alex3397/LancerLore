@@ -7,20 +7,20 @@
 6. **Trabalhar Todos, para Todos e Produzir Somente o Necessário.**<br>
 	Trabalhar sempre foi um direito de todos, mas somente agora que tenho o controle de nosso destino nas nossas mãos podemos garantir que todos que estejam aptos a trabalhar possam trabalhar como, quando, onde e com o quê quiserem, ser estarem presos às engrenagens que mastigam a carne em nome de produzir cada vez mais para manter a insana besta do capital satisfeita em seu ciclo vicioso de reprodução infinita que consumiu o berço e quase destruiu toda a humanidade.
 	<Br>
-7. **O governo deve servir à toda população, não apenas à uma elite econômica.**<br>
+7. **Fim do Estado como ferramenta de dominação de uma elite econômica e política.**<br>
     A simples idéia de existir um governo que não sirva à propria população, criando políticas para gerar pobreza, fome, doença e guerra em nome de beneficiar uma minoria privilegiada de toda uma população, já é em si abominável, para que não voltemos à outra era das trevas devemos lutar contra o aparelhamento do Estado para fins de privilegiar o privado às custas do suor, do sangue e da linfa e todas as pessoas que lutaram para garantir o bem coletivo e trabalham para criar o mundo da forma que é hoje.
     <br>
-8. **Sociedades Sem Classes**<br>
-	   O objetivo final é uma sociedade onde não haja divisão entre ricos e pobres, nem exploração, e todos tenham acesso igualitário aos recursos e oportunidades.
+8. **Uma sociedade sem distinções entre classes sociais**<br>	
+	Em uma mesma sociedade nunca deveria existir o opressor e o oprimido, o explorador e o explorado, o Lorde e o servo. Permitir que os dois coexistam na mesma sociedade é dar palco para disputas e conflitos sociais e econômicos onde uma classe obrigatoriamente irá sobrepujar a outra e mais conflitos e guerras se iniciarão até que a destruição mate a todos. Somente com a conscientização de todas as pessoas e garantindo que a política seja feita por todos e para todos esse ciclo será quebrado.
+	<br>
+9. **Trabalhadores de toda galáxia... Uní-vos**<br>
+	   Somente com a União de todos o trabalhadores da galáxia poderemos viver de forma verdadeiramente livre, enquanto houver pessoas sendo exploradas e tendo o valor de seu trabalho sendo expropriado ainda viveremos na barbárie que destruiu o berço de todas as civilizações, só com a libertação de todos os oprimidos é que a humanidade terá um futuro onde as mazelas da velha sociedade foram verdadeiramente superadas.
 	   <br>
-9. **Internacionalismo Proletário**<br>
-	   O comunismo defende a união dos trabalhadores de todos os países, transcendendo fronteiras nacionais, para combater o capitalismo globalmente.
+10. **Planejamento Coletivo de uma Economia Centralizada**<br>
+	   Todos somos agentes económicos, nós produzimos, consumimos e construimos a sociedade, nada mais certo do que decidir nós mesmo o que faremos e como faremos, se será para nós mesmos ou para outras pessoas, com a não alienação do trabalho, todos podemos decidir como melhor atender as necessidades de cada pessoa da população, conselhos económicos e sindicatos deverão ajudar a sociedade à destinar a sua capacidade produtiva da melhor forma possível buscando a cooperação entre planetas no desenvolvimento mútuo a longa duração.
 	   <br>
-10. **Planejamento Econômico Centralizado**<br>
-	   A economia seria planejada e controlada pelo Estado ou pela comunidade, visando atender às necessidades da população, em vez de buscar lucro.
-	   <br>
-11. **Educação e Cultura para Todos**<br>
-	O comunismo prega o acesso universal à educação e à cultura, como forma de emancipação e desenvolvimento humano.
+11. **Educação, Entretenimento e Cultura Universais e Gratuitas para todos**<br>
+	O que seria da vida se não houvesse diversão? Com certeza tudo seria chato e massante, não haveria vontade de fazer nada. Sociedades que restringem o acesso à educação, ao entretenimento e à cultura estão fadadas à estagnação, à opressão e, eventualmente, ao colapso. Sem educação completa e gratuita uma mente não seria verdadeiramente livre, capaz de questionar, inovar ou resistir às inverdades produzidas por inimigos ideológicos, não adianta conhecer o mundo através exclusivamente de um viés tecnicista e tecnológico, conhecer também a sociedade, sua história e sua cultura fortalecem a sensação de pertencimento a algo maior.
    <br>
-   12. **Extinção do Estado**<br>
-    Em sua fase final, o comunismo prevê a extinção do Estado, já que, em uma sociedade sem classes, não haveria necessidade de um aparato coercitivo para manter a ordem.
+   12. **Extinção do Estado: Anarquia Harmônica Coletivisada**<br>
+    A evolução da sociedade humana deve culminar na dissolução voluntária do Estado como entidade coercitiva, substituindo-o por uma organização social baseada na cooperação espontânea e na harmonia coletiva. Sob a Anarquia Harmônica Coletivisada, as estruturas hierárquicas e opressivas serão desmanteladas, dando lugar a comunidades autogeridas que operam sob princípios de mutualismo, solidariedade e apoio mútuo. A distribuição de recursos será guiada pela lógica da abundância compartilhada, onde a tecnologia avançada e a gestão coletiva garantem que todos tenham acesso ao que precisam, sem a necessidade de um aparato estatal centralizado. A liberdade individual e a responsabilidade coletiva coexistirão em equilíbrio, permitindo que a humanidade floresça em um mundo sem fronteiras, sem opressão e sem escassez artificial. A extinção do Estado não é o fim da ordem, mas o início de uma nova era de autodeterminação e harmonia universal.
