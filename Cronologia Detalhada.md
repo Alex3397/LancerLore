@@ -52,11 +52,14 @@ Com a vitória da União e a instauração do Comitê todas as tecnologias dos c
 
 Com as tecnologias do cofres a União constrói bases aeroespaciais no solo e em sua órbita permitindo a futura reconstrução dos estaleiros que tinham sido desativados.
 
-Sistemas de comunicação de longo alcance são reativados, eles ouviram os gritos de milhares de anos de uma humanidade morta entre as estrelas, gravações SOS transmitidas desde a Queda da Humanidade na terra, mais de 6 mil anos de dor e sofrimento, pedidos de ajuda, suplicas para deuses esquecidos, nada serviu, ninguém nunca os ouviu, em meio aos gritos a União mandou respostas aos pedidos de ajuda.
+Sistemas de comunicação de longo alcance são reativados...
+Só se ouve morte, no instante que ligaram os aparelhos eles ouviram os gritos da velha humanidade... Milhares... Bilhões... Trilhões... Não importa a quantidade, todas as mensagens eram de desespero, infinitas vozes à procura de salvação, mensagens de todas as pessoas que já morreram fora do berço da humanidade, vagando entre as estrelas e a fria vastidão do cosmos por milênios, todos os sonhos destruídos de uma ingênua humanidade gritando com uma horripilante dor de memórias que foram consumidas pelo tempo e pela radiação... Essa é a voz da velha humanidade tocando infinitamente para qualquer sobrevivente que possa ouvir... Um fantasma manifestando toda sua loucura.
+
+Há milhares de anos uma humanidade morta entre as estrelas gravava seus últimos momentos de vida em mensagens SOS, agora finalmente transmitidas desde a Queda da Humanidade na terra, mais de 6 mil anos de dor e sofrimento finalmente reconhecidos. Nada serviu, desde às suplicas para deuses esquecidos, até promessas de retaliação caso não mandassem ajuda, ninguém nunca os ouviu <span class="censor">,e se ouviu, os ignorou</span>, em meio aos gritos a União mandou respostas aos pedidos de ajuda, em uma tentativa de tentar remendar o impossível, não houve resposta.
 
 Muitos mundos ainda precisavam de ajuda, colônias fracassaram, guerras eclodiram em sistemas exploratórios, muitas vidas foram perdidas antes mesmo de chegar nos mundos que deveriam, os colonos da Apollo tinham criado um império galáctico e tinham acabado de resolver uma guerra interna que tinha durado anos.
 
-A União percebeu que não poderia trazer os mortos de volta a vida, mas poderia sufocar a galáxia com vida. O Programa Espacial da União (PEU) é anunciado logo depois.
+A União percebeu que não poderia trazer os mortos de volta a vida, mas poderia sufocar a galáxia com os vivos. O Programa Espacial da União (PEU) é anunciado logo depois.
 
 ### Ano 1430 da União
 
