@@ -32,23 +32,31 @@ Com o crescimento da população humana novas nações foram criadas, e novas gu
 
 <span class="censor">Traição... Em um mundo onde tudo que é produzido é expropriado, pessoas são alienadas, escravizadas e tudo que é de pior se acontece com quem se opõe a isso, traição é um dos pecados mais fáceis de se perdoar, principalmente se o traído merecer sua morte... Quem prega capitalismo pelos meios mais selvagens favorece sua própria destruição criando uma luta incessante pelo poder de se ter, o que acontece quando a comida acaba e a vontade de se alimentar de seu semelhante se aflora? Quando o fogo se organiza o que ocorre?</span>
 
-<span class="censor">Um grupo financiado pela família Fùyì Guǐmó (富义诡谋), realiza um golpe de estado nos países centrais que lideravam a Hegemonia Imperialista, a Ação Libertadora Mundial vê uma oportunidade e influência os oprimidos pela Hegemonia para se revoltarem com o apoio deles e assim</span> se iniciam as pequenas guerras.
+<span class="censor">Um grupo financiado pela família Tokugawa (徳川), realiza um golpe de estado nos países centrais que lideravam a Hegemonia Imperialista, a Ação Libertadora Mundial vê uma oportunidade e influência os oprimidos pela Hegemonia para se revoltarem com o apoio deles e assim</span> se iniciam as pequenas guerras.
 
-Conflitos mundiais entre os principais blocos hegemónicos disputando soberanía e controle sobre as tecnologias preservadas nos cofres de cada região da Terra, mais uma vez uma nova guerra global eclodiu e novamente o iminente colapso e uma nova era de trevas estava batendo à porta da humanidade.
+Conflitos mundiais entre os principais blocos hegemónicos disputando soberania e controle sobre as tecnologias preservadas nos cofres de cada região da Terra, mais uma vez uma nova guerra global eclodiu e novamente o iminente colapso e uma nova era de trevas estava batendo à porta da humanidade.
 
 ___
 # Fundação da União
 ### Ano 0 da União
 
-A conclusão das pequenas guerras se deu antes que outra catástrofe acontecesse, as nações que estavam em guerra decidiram cessar fogo para que não voltássemos à mais uma nova era das trevas, e então houve o acordo para cessar todas as guerras. E assim <span class="censor">a Hegemonia Imperialista se rendeu e os acordos firmados pela Ação Libertadora Mundial e a família Fùyì Guǐmó (富义诡谋)</span> estabelecem a fundação onde seria construída a União, são criados o Comitê da União e os pilares utópicos são definidos:
+A conclusão das pequenas guerras se deu antes que outra catástrofe acontecesse, as nações que estavam em guerra decidiram cessar fogo para que não voltássemos à mais uma nova era das trevas, e então houve o acordo para cessar todas as guerras. E assim <span class="censor">a Hegemonia Imperialista se rendeu e os acordos firmados pela Ação Libertadora Mundial e a família Tokugawa (徳川)</span> estabelecem a fundação onde seria construída a União, são criados o Comitê da União e os pilares utópicos são definidos:
 
 ![[Os pilares utópicos]]
 
+Com a vitória da União e a instauração do Comitê todas as tecnologias dos cofres Massif foram compartilhadas por todos os povos, provendo as capacidades necessária para terminar a regeneração do mundo que foi várias vezes destruído por guerras.<span class="censor">Obviamente, antes de entregarem as tecnologia na mão da União os Tokugawa (徳川), sabendo que a União iria compartilhar todas as tecnologias, retiraram as principais tecnologias militares e industriais para uso próprio, mantendo o segredo deles através da corrupção de agentes da União e assassinos de aluguel.</span>
+
 ### Ano 1400 da União
 
-Sistemas de comunicação de longo alcance são
-reativados, permitindo a recuperação de inúmeras
-transmissões de SOS arquivadas da era da Queda. O Programa Espacial da União (PEU) é anunciado logo depois.
+<span class="censor">Ao longo dos Tokugawa (徳川) foram colecionando novos aliados, expandindo sua área de influência, atritos ocorreram com a União, algumas tecnologias foram recuperadas e distribuídas ao povo, uma tecnologia bem importante para a construção e revitalização de estaleiros espaciais, guindastes de gravidade zero, foi recuperada quando um braço aliado dos Tokugawa estava tentando negociar a tecnologia para outra família de antes da fundação da União, as duas famílias foram severamente punidas, forçadas a se dissolver, trabalhar quebrando pedras sendo supervisionadas por androides e a reler toda a história da humanidade de antes da queda até a fundação da União para, em uma tentativa, ressocializar e fazer a criatura entender que quem explora outros humanos em benefício próprio abandonou sua humanidade e não merece ser reconhecido nem mesmo como animal, vale dizer que mesmo depois de tudo isso alguns ainda não entendiam ou não se importavam e voltavam aos seus velhos hábitos, aí o tratamento era diferente.</span>
+
+Com as tecnologias do cofres a União constrói bases aeroespaciais no solo e em sua órbita permitindo a futura reconstrução dos estaleiros que tinham sido desativados.
+
+Sistemas de comunicação de longo alcance são reativados, eles ouviram os gritos de milhares de anos de uma humanidade morta entre as estrelas, gravações SOS transmitidas desde a Queda da Humanidade na terra, mais de 6 mil anos de dor e sofrimento, pedidos de ajuda, suplicas para deuses esquecidos, nada serviu, ninguém nunca os ouviu, em meio aos gritos a União mandou respostas aos pedidos de ajuda.
+
+Muitos mundos ainda precisavam de ajuda, colônias fracassaram, guerras eclodiram em sistemas exploratórios, muitas vidas foram perdidas antes mesmo de chegar nos mundos que deveriam, os colonos da Apollo tinham criado um império galáctico e tinham acabado de resolver uma guerra interna que tinha durado anos.
+
+A União percebeu que não poderia trazer os mortos de volta a vida, mas poderia sufocar a galáxia com vida. O Programa Espacial da União (PEU) é anunciado logo depois.
 
 ### Ano 1430 da União
 
@@ -56,26 +64,15 @@ Uma expedição do PEU pousa na lua do Berço, Luna, e reativa instalações ant
 
 ### Ano 1450 da União
 
-As primeiras naves interestelares da classe Proximaluz — baseadas em planos preservados nos cofres
-de Massif e construídas usando o estaleiro Teseu — são
-lançadas, buscando mundos Gaia identificados em mapas estelares antigos.
+As primeiras naves interestelares da classe Proximaluz — baseadas em planos preservados nos cofres Massif e construídas usando o estaleiro Teseu — são lançadas, buscando mundos Gaia identificados em mapas estelares antigos.
 
 ### Ano 1998 da União
 
-O PEU Hino, uma nave Proximaluz .8C associada
-à missão Jardim da Fronteira, relata o primeiro contato
-com sinais de socorro de duas das Dez — o Rihla e o
-Armstrong — e aqueles descendentes de suas tripulações originais: os povos Áunicos, organizados sob o Ecúmeno Áun em um mundo habitável próximo.
-1700–1999u: A expansão dentro do Berço ocorre. A União monta expedições pelos mundos e luas do sistema do Berço, repovoando antigas estações, instalações e colônias.
+O PEU Hino, uma nave Proximaluz .8C associada à missão Jardim da Fronteira, relata o primeiro contato com sinais de socorro de duas das Dez, Rihla e Armstrong, e aqueles descendentes de suas tripulações originais: os povos Áunicos, organizados sob o Ecúmeno Áun em um mundo habitável próximo. 1700–1999u: A expansão dentro do Berço ocorre. A União monta expedições pelos mundos e luas do sistema do Berço, repovoando antigas estações, instalações e colônias.
 
 ### Ano 2000 da União
 
-A instalação Coro Oracular é descoberta sob a
-Vastitas Borealis de Marte. A instalação é reativada, e
-as Cinco Vozes — mentes máquinas avançadas capazes
-de prever o futuro com precisão quase perfeita — são
-identificadas. Isso cria as bases para o que mais tarde
-se tornaria a Previsão/Simulação Galáctica.
+A instalação Coro Oracular é descoberta sob a Vastitas Borealis de Marte. A instalação é reativada, e as Cinco Vozes — mentes máquinas avançadas capazes de prever o futuro com precisão quase perfeita — são identificadas. Isso cria as bases para o que mais tarde se tornaria a Previsão/Simulação Galáctica.
 
 ___
 # A Primeira Expansão
@@ -107,21 +104,14 @@ O Espaço lampejo é identificado e perfurado. A tecnologia para criar campos de
 
 TAMBÉM DURANTE O PERÍODO NEO-ANTROPOCENO:
 
-Os Áun passam por um intenso conflito civil-religioso, o
-Cisma Áunico, levando à criação da Ascendência Áunica. O Ecúmeno Áun é formalmente dissolvida e os Áun Ecumênicos fogem para Jardim da Fronteira, no espaço da União. A maioria se refugia em Cornucópia, agora o mundo capital do setor.
+Os Áun passam por um intenso conflito civil religioso, o Cisma Áunico, levando à criação da Ascendência Áunica. O Ecúmeno Áun é formalmente dissolvida e os Áun Ecumênicos fogem para Jardim da Fronteira, no espaço da União. A maioria se refugia em Cornucópia, agora o mundo capital do setor.
 
 ___
 # A Segunda Expansão
 
 ### Anos 3200–4500 da União
 
-O Segundo Período de Expansão começa,
-enquanto o Segundo Comitê inicia um esforço massivo
-de colonização e expansão em toda a União no Braço
-de Órion da galáxia. A rede de "lampejo" é expandida
-através da construção rápida de portais, e bilhões de
-colonos são enviados para dezenas de milhares de mundos durante este período. Este período representa o
-maior movimento de vida humana registrado na história.
+O Segundo Período de Expansão começa, enquanto o Segundo Comitê inicia um esforço massivo de colonização e expansão em toda a União no Braço de Órion da galáxia. A rede de "lampejo" é expandida através da construção rápida de portais, e bilhões de colonos são enviados para dezenas de milhares de mundos durante este período. Este período representa o maior movimento de vida humana registrado na história.
 
 ### Anos 4500 da União
 
