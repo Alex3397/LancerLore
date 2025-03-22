@@ -65,13 +65,31 @@ A União percebeu que não poderia trazer os mortos de volta a vida, mas poderia
 
 Uma expedição do PEU pousa na lua do Berço, Luna, e reativa instalações antigas, incluindo o estaleiro Teseu.
 
+São fundadas a Empreendimentos Interplanetários e a Corporação Estrela do Norte, cooperativas de trabalhadores que buscavam transportar materiais e bens pessoais para abastecer seu próprio pessoal que trabalharam na reconstrução do estaleiro.
+
+<span class="censor">Os Tokugawa viram a expansão para a galáxia com sentimentos conflitantes, ao mesmo tem que tinham sangue nos olhos por não só as tecnologias deles terem sido "roubadas" pela União e dadas de graça, eles usaram as tecnologias deles para facilitar a vida dos trabalhadores sem sequer cobrar nada, por outro lado a expansão em direção à galáxia significava novos mercados em potencial, independente de por qual lado se olhasse, algo precisava ser feito.</span>
+
 ### Ano 1450 da União
 
-As primeiras naves interestelares da classe Proximaluz — baseadas em planos preservados nos cofres Massif e construídas usando o estaleiro Teseu — são lançadas, buscando mundos Gaia identificados em mapas estelares antigos.
+<span class="censor">Usando seu capital político adquirido com anos de atuação e influência desenvolvida através do mercado negro e de lutas invisíveis que aconteciam enquanto as cidades dormiam, os Tokugawa conseguiram colocar o seu pessoal para trabalhar no estaleiro Teseu para vazar as informações das rotas que transportavam os materiais mais valiosos para a União.</span>
+
+As primeiras naves interestelares baseadas em planos preservados nos cofres Massif de classe Proximaluz, naves que viajam abaixo da velocidade da luz e levam muito tempo se comparadas aos portais de lampejo, mas muito mais rápidas que as Dez, são construídas usando o estaleiro Teseu e lançadas, buscando mundos Gaia identificados em mapas estelares antigos.
+
+<span class="censor">Sempre com cautela os Tokugawa deixaram que a União se focasse em seu programa espacial, até diminuíram a escala de suas operações clandestinas de experimentos genéticos e contrabando de órgãos clonados para não chamarem atenção, assim que a União parou de olhar tão atentamente para o estaleiro Teseu e seu sistema solar, eles construíram naves e expandiram seu portifólio ainda mais, com os informantes do estaleiro Teseu eles criaram planos de assaltos às naves da União, sempre coagindo e financiando terceiros para levar a culpa por eles</span>
+
+Ao longo dos anos as atividades de pirataria começaram a aumentar, fazendo com quê as duas cooperativas de transporte se unissem, criando assim não apenas a maior cooperativa de construção de naves no espaço da União, mas também a maior força antipirataria, estava fundada a Empreendimentos Interplanetários Estrela do Norte (EIP-EN). 
+
+### Ano 1700 da União
+
+A expansão dentro do Berço ocorre. A União monta expedições pelos mundos e luas do sistema do Berço, repovoando antigas estações, instalações e colônias.
+
+<span class="censor">A pirataria promovida pelos Tokugawa crescia confirme novos planetas eram repovoados, melhorando anos após ano, obviamente sempre haviam pessoas que eram mais questionadoras em relação aos ataques piratas e queriam saber para quem eles trabalhavam, mas sempre pareciam casos isolados de pessoas que achavam que a União estava chata demais, ou alegavam que a opressão da União para com seus habitantes os forçava a ter que recorrer à pirataria para poder sobrevive, isso sem falar das pessoas que realmente descobriram algo, algumas foram forçadas a se tornarem piratas, outras... Melhor nem dizer no que deu.</span>
+
+Trabalhando com oficiais da Marinha da União, a EIP-EN desenvolveu as primeiras doutrinas de combate de naves para naves e antiabordagem, bem como as primeiras armas de defesa ponto a ponto, trajes de AEV de combate, auxiliadores de mobilidade em microgravidade e vários outros multiplicadores de força.
 
 ### Ano 1998 da União
 
-O PEU Hino, uma nave Proximaluz .8C associada à missão Jardim da Fronteira, relata o primeiro contato com sinais de socorro de duas das Dez, Rihla e Armstrong, e aqueles descendentes de suas tripulações originais: os povos Áunicos, organizados sob o Ecúmeno Áun em um mundo habitável próximo. 1700–1999u: A expansão dentro do Berço ocorre. A União monta expedições pelos mundos e luas do sistema do Berço, repovoando antigas estações, instalações e colônias.
+O PEU Hino, uma nave Proximaluz .8C associada à missão Jardim da Fronteira, relata o primeiro contato com sinais de socorro de duas das Dez, Rihla e Armstrong, e aqueles descendentes de suas tripulações originais: os povos Áunicos, organizados sob o Ecúmeno Áun em um mundo habitável próximo.
 
 ### Ano 2000 da União
 
