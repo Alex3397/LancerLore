@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/xcra0yge#pB0fuERZjdDDNVesJYS4auhUsFiLQ2Do9c+IUb3f+XQ
+share_updated: 2025-03-22T12:34:19-03:00
+---
 # Antes da União
 ### Ano 6000 Antes da União
 

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd015d57fc039d30",
+        "id": "31661de5a0741bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "d565d4ea68fdc1bd",
+            "id": "c1ffa3a2d8f1814b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cronologia Detalhada.md",
-                "mode": "source",
-                "source": true
+                "file": "Imagens/LichBattle.png"
               },
-              "icon": "lucide-file",
-              "title": "Cronologia Detalhada"
+              "icon": "lucide-image",
+              "title": "LichBattle"
             }
           }
         ]
@@ -179,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 845
+    "width": 828
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,22 +190,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35734da271d6c1e3",
+  "active": "c1ffa3a2d8f1814b",
   "lastOpenFiles": [
-    "Imagens/Armored Core.jpeg",
-    "Imagens/Dulius.jpeg",
-    "Imagens/Ahab.jpeg",
-    "Imagens/Queen Balor.jpeg",
+    "Imagens/Manticore.png",
+    "Imagens/Mech Ambush.jpg",
+    "Imagens/Medusa.avif",
+    "Imagens/Metal Mark Manticore.jpeg",
+    "Imagens/MissionStart.png",
     "Imagens/Monarch.jpeg",
-    "Imagens/Kraken.jpeg",
+    "Imagens/Nelson Flight Type.jpg",
+    "Imagens/Nergul.png",
     "Imagens/Paladin.jpeg",
-    "Imagens/Manticore.jpeg",
-    "Imagens/Anubis.jpeg",
-    "Imagens/Caliban.jpeg",
-    "Imagens/Kidd.jpeg",
-    "A União/Ideologia/Princípios Perdidos.md",
+    "Imagens/Queen Balor.jpeg",
+    "Imagens/Racing Mech.jpg",
     "Cronologia Detalhada.md",
     "A União/Ideologia/Os pilares utópicos.md",
+    "A União/Ideologia/Princípios Perdidos.md",
     "A União/Ideologia/Dados Redigidos.md",
     "Imagens",
     "Cronologia Detalhada.pdf",
