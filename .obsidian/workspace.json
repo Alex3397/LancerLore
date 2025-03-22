@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31661de5a0741bc6",
+        "id": "74df6db4241f2fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ffa3a2d8f1814b",
+            "id": "a92c9518be6397be",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagens/LichBattle.png"
+                "file": "Cronologia Detalhada.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "LichBattle"
+              "icon": "lucide-file",
+              "title": "Cronologia Detalhada"
             }
           }
         ]
@@ -177,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 828
+    "width": 858
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,20 +192,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1ffa3a2d8f1814b",
+  "active": "a92c9518be6397be",
   "lastOpenFiles": [
-    "Imagens/Manticore.png",
-    "Imagens/Mech Ambush.jpg",
-    "Imagens/Medusa.avif",
-    "Imagens/Metal Mark Manticore.jpeg",
-    "Imagens/MissionStart.png",
-    "Imagens/Monarch.jpeg",
-    "Imagens/Nelson Flight Type.jpg",
-    "Imagens/Nergul.png",
-    "Imagens/Paladin.jpeg",
-    "Imagens/Queen Balor.jpeg",
-    "Imagens/Racing Mech.jpg",
     "Cronologia Detalhada.md",
+    "Imagens/Mech Ambush.jpg",
+    "Imagens/Manticore.png",
+    "Imagens/LichBattle.png",
+    "Imagens/Kraken.jpeg",
+    "Imagens/Kidd.jpeg",
+    "Imagens/Jungle.jpg",
+    "Imagens/House.webp",
+    "Imagens/Goblin.webp",
+    "Imagens/Gilgamesh.png",
+    "Imagens/Flodded city skirmish.jpg",
     "A União/Ideologia/Os pilares utópicos.md",
     "A União/Ideologia/Princípios Perdidos.md",
     "A União/Ideologia/Dados Redigidos.md",
