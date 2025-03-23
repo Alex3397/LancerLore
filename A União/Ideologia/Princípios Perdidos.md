@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/mbsgs2xw#+EiqS1MNFjIRjZ5sZ8O/PJPIRivpDhM11UyDb1JSMKQ
+share_updated: 2025-03-23T19:07:22-03:00
+---
 4. **Fim de Todas as Formas de Opressão e Injustiças.**<br>
 	Todos devem ser tratados iguais, no momento em que achamos natural alguém ser inferior ou superior a outra pessoa, seja pela sua aparência ou cultura, criamos formas de justificar as atrocidades que foram cometidas no passado a mando de uma forma de sociedade que busca sua própria destruição através das satisfações pessoais de poucos, somente abraçando nossas diferenças, e buscando o bem coletivo poderemos seguir em frente, o indivíduo floresce quando o individualismo morre.
 	<br>
@@ -17,7 +21,7 @@
 	   Somente com a União de todos o trabalhadores da galáxia poderemos viver de forma verdadeiramente livre, enquanto houver pessoas sendo exploradas e tendo o valor de seu trabalho sendo expropriado ainda viveremos na barbárie que destruiu o berço de todas as civilizações, só com a libertação de todos os oprimidos é que a humanidade terá um futuro onde as mazelas da velha sociedade foram verdadeiramente superadas.
 	   <br>
 10. **Planejamento Coletivo de uma Economia Centralizada**<br>
-	   Todos somos agentes económicos, nós produzimos, consumimos e construimos a sociedade, nada mais certo do que decidir nós mesmo o que faremos e como faremos, se será para nós mesmos ou para outras pessoas, com a não alienação do trabalho, todos podemos decidir como melhor atender as necessidades de cada pessoa da população, conselhos económicos e sindicatos deverão ajudar a sociedade à destinar a sua capacidade produtiva da melhor forma possível buscando a cooperação entre planetas no desenvolvimento mútuo a longa duração.
+	   Todos somos agentes económicos, nós produzimos, consumimos e construímos a sociedade, nada mais certo do que decidir nós mesmo o que faremos e como faremos, se será para nós mesmos ou para outras pessoas, com a não alienação do trabalho, todos podemos decidir como melhor atender as necessidades de cada pessoa da população, conselhos económicos e sindicatos deverão ajudar a sociedade à destinar a sua capacidade produtiva da melhor forma possível buscando a cooperação entre planetas no desenvolvimento mútuo a longa duração.
 	   <br>
 11. **Educação, Entretenimento e Cultura Universais e Gratuitas para todos**<br>
 	O que seria da vida se não houvesse diversão? Com certeza tudo seria chato e maçante, não haveria vontade de fazer nada. Sociedades que restringem o acesso à educação, ao entretenimento e à cultura estão fadadas à estagnação, à opressão e, eventualmente, ao colapso. Sem educação completa e gratuita uma mente não seria verdadeiramente livre, capaz de questionar, inovar ou resistir às inverdades produzidas por inimigos ideológicos, não adianta conhecer o mundo através exclusivamente de um viés tecnicista e tecnológico, conhecer também a sociedade, sua história e sua cultura fortalecem a sensação de pertencimento a algo maior.

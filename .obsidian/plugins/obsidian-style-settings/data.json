@@ -4,7 +4,7 @@
   "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@theme-light": "encore-theme-light",
   "encore-settings@@encore-translucency-strength": 1,
-  "encore-settings@@encore-translucency-blur-amount": 1,
+  "encore-settings@@encore-translucency-blur-amount": 14,
   "encore-settings@@encore-translucency-image": "url(\"https://raw.githubusercontent.com/Alex3397/LancerLore/refs/heads/main/Imagens/MissionStart.png\")",
   "encore-settings@@encore-fancy-headers": false,
   "encore-settings@@encore-mobile-translucency": false,
