@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cronologia Detalhada.md",
+                "file": "A União/Relações Externas/Tokugawa/Arbeiterstimme 1436.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cronologia Detalhada"
+              "title": "Arbeiterstimme 1436"
             }
           }
         ]
@@ -155,36 +155,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": true
     }
   },
   "active": "0f26db54d2a7bb30",
   "lastOpenFiles": [
-    "Imagens/Metal Mark Manticore.jpeg",
-    "Imagens/Manticore.png",
+    "A União/Relações Externas/Tokugawa/Arbeiterstimme 1436.md",
     "Cronologia Detalhada.md",
-    "Imagens/Queen Balor.jpeg",
-    "Imagens/Paladin.jpeg",
-    "Imagens/Monarch.jpeg",
-    "Imagens/Kraken.jpeg",
-    "Imagens/Kidd.jpeg",
-    "Imagens/Gilgamesh.png",
-    "Imagens/Dulius.jpeg",
+    "A União/Relações Externas/Tokugawa",
+    "A União/Ideologia/Princípios Perdidos.md",
+    "Imagens/Bullfrog.jpg",
     "Imagens/Caliban.jpeg",
+    "Imagens/Cover.jpg",
+    "Imagens/Boarding skirmish.jpg",
+    "Imagens/Blackbeard.png",
+    "Imagens/Bicameral Genghis.jpg",
+    "Imagens/Battle.jpg",
     "Imagens/Armored Core.jpeg",
+    "Imagens/Anubis.jpeg",
+    "Imagens/Ahab.jpeg",
     "/Imagens",
     "/Cronologia Detalhada.md",
-    "A União/Ideologia/Os pilares utópicos.md",
-    "A União/Ideologia/Princípios Perdidos.md",
-    "/A União/Ideologia/Dados Redigidos.md",
+    "/A União/Ideologia/Princípios Perdidos.md",
+    "/A União/Ideologia/Os pilares utópicos.md",
     "/A União/Ideologia",
     "/A União",
+    "A União/Ideologia/Os pilares utópicos.md",
+    "A União/Departamentos/A Burocracia.md",
+    "/A União/Ideologia/Dados Redigidos.md",
     "Imagens"
   ]
 }

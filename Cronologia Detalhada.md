@@ -71,7 +71,9 @@ Uma expedição do PEU pousa na lua do Berço, Luna, e reativa instalações ant
 
 São fundadas a Empreendimentos Interplanetários e a Corporação Estrela do Norte, cooperativas de trabalhadores que buscavam transportar materiais e bens pessoais para abastecer seu próprio pessoal que trabalharam na reconstrução do estaleiro.
 
-<span class="censor">Os Tokugawa viram a expansão para a galáxia com sentimentos conflitantes, ao mesmo tem que tinham sangue nos olhos por não só as tecnologias deles terem sido "roubadas" pela União e dadas de graça, eles usaram as tecnologias deles para facilitar a vida dos trabalhadores sem sequer cobrar nada, por outro lado a expansão em direção à galáxia significava novos mercados em potencial, independente de por qual lado se olhasse, algo precisava ser feito.</span>
+<span class="censor">Os Tokugawa viram a expansão para a galáxia com sentimentos conflitantes, ao mesmo tem que tinham sangue nos olhos por não só as tecnologias deles terem sido "roubadas" pela União, dadas de graça à população e usadas para facilitar a vida dos trabalhadores sem sequer cobrar nada, por outro lado a expansão em direção à galáxia significava novos mercados em potencial.</span>
+
+[[Arbeiterstimme 1436]]
 
 ### Ano 1450 da União
 

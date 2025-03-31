@@ -2,5 +2,8 @@
   "enabledCssSnippets": [
     "style"
   ],
-  "cssTheme": "Encore"
+  "cssTheme": "Encore",
+  "accentColor": "#ff00ff",
+  "baseFontSize": 16,
+  "theme": "obsidian"
 }
