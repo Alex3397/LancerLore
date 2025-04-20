@@ -56,8 +56,9 @@ Com a vitória da União e a instauração do Comitê todas as tecnologias dos c
 
 Com as tecnologias do cofres a União constrói bases aeroespaciais no solo e em sua órbita permitindo a futura reconstrução dos estaleiros que tinham sido desativados.
 
-Sistemas de comunicação de longo alcance são reativados...
-Só se ouve morte, no instante que ligaram os aparelhos eles ouviram os gritos da velha humanidade... Milhares... Bilhões... Trilhões... Não importa a quantidade, todas as mensagens eram de desespero, infinitas vozes à procura de salvação, mensagens de todas as pessoas que já morreram fora do berço da humanidade, vagando entre as estrelas e a fria vastidão do cosmos por milênios, todos os sonhos destruídos de uma ingênua humanidade gritando com uma horripilante dor de memórias que foram consumidas pelo tempo e pela radiação... Essa é a voz da velha humanidade tocando infinitamente para qualquer sobrevivente que possa ouvir... Um fantasma manifestando toda sua loucura.
+Sistemas de comunicação de longo alcance são reativados. E...
+
+Morte, no instante que ligaram os aparelhos eles ouviram os gritos da velha humanidade... Milhares... Bilhões... Trilhões... A quantidade não importava, todas as mensagens eram de desespero, infinitas vozes à procura de salvação, mensagens de todas as pessoas que já morreram fora do berço da humanidade, vagando entre as estrelas e a fria vastidão do cosmos por milênios, todos os sonhos destruídos de uma ingênua humanidade voltaram para assombrar o que restava da humanidade pela ousadia de deixar suas crianças vagarem pelo vazio com falsas esperanças de prosperidade gritavam em uníssono uma horripilante dor de memórias que foram consumidas pelo tempo e pela radiação... A voz da velha humanidade tocava infinitamente para qualquer sobrevivente que possa ouvir sem nenhuma resposta... O tormento dos mortos finalmente encontrou alguém para ouvir suas lamentações, fantasmas manifestando toda sua loucura.
 
 Há milhares de anos uma humanidade morta entre as estrelas gravava seus últimos momentos de vida em mensagens SOS, agora finalmente transmitidas desde a Queda da Humanidade na terra, mais de 6 mil anos de dor e sofrimento finalmente reconhecidos. Nada serviu, desde às suplicas para deuses esquecidos, até promessas de retaliação caso não mandassem ajuda, ninguém nunca os ouviu <span class="censor">,e quem ouviu, os ignorou</span>, em meio aos gritos a União mandou respostas aos pedidos de ajuda, em uma tentativa de tentar remendar o impossível, não houve resposta.
 
@@ -73,9 +74,9 @@ São fundadas a Empreendimentos Interplanetários e a Corporação Estrela do No
 
 <span class="censor">Os Tokugawa viram a expansão para a galáxia com sentimentos conflitantes, ao mesmo tem que tinham sangue nos olhos por não só as tecnologias deles terem sido "roubadas" pela União, dadas de graça à população e usadas para facilitar a vida dos trabalhadores sem sequer cobrar nada, por outro lado a expansão em direção à galáxia significava novos mercados em potencial.</span>
 
-<span class="censor">Em 1436 uma operação policial encontra uma estação de pesquisa ilegal, tecnologia dos clonagem com data da abertura dos cofres foi recuperada, durante a operação relataram manipulação remota de memórias, utiliz</span>
+<span class="censor">Em 1436 uma operação policial encontra uma estação de pesquisa ilegal, tecnologia dos clonagem com data da abertura dos cofres foi recuperada, durante a operação relataram manipulação remota de memórias em tempo real para controle psicosocial e causar histeria em massa. Não foi possível identificar qual organização estava por trás desse experimento.</span>
 
-[[Arbeiterstimme 1436]]
+Acesso restrito - LL3 necessário: [[Arbeiterstimme 1436]]
 
 ### Ano 1450 da União
 
