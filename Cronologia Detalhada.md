@@ -147,6 +147,3 @@ O Segundo Período de Expansão começa, enquanto o Segundo Comitê inicia um es
 
 Encontramos... Alienígenas?
 ![[MissionStart.png]]
-
-US$ 136,6 bilhões importação do Vietnam
-U$ 13,1 bilhões exportação para o Vietnam 
