@@ -59,7 +59,7 @@ Com as tecnologias do cofres a União constrói bases aeroespaciais no solo e em
 Sistemas de comunicação de longo alcance são reativados...
 Só se ouve morte, no instante que ligaram os aparelhos eles ouviram os gritos da velha humanidade... Milhares... Bilhões... Trilhões... Não importa a quantidade, todas as mensagens eram de desespero, infinitas vozes à procura de salvação, mensagens de todas as pessoas que já morreram fora do berço da humanidade, vagando entre as estrelas e a fria vastidão do cosmos por milênios, todos os sonhos destruídos de uma ingênua humanidade gritando com uma horripilante dor de memórias que foram consumidas pelo tempo e pela radiação... Essa é a voz da velha humanidade tocando infinitamente para qualquer sobrevivente que possa ouvir... Um fantasma manifestando toda sua loucura.
 
-Há milhares de anos uma humanidade morta entre as estrelas gravava seus últimos momentos de vida em mensagens SOS, agora finalmente transmitidas desde a Queda da Humanidade na terra, mais de 6 mil anos de dor e sofrimento finalmente reconhecidos. Nada serviu, desde às suplicas para deuses esquecidos, até promessas de retaliação caso não mandassem ajuda, ninguém nunca os ouviu <span class="censor">,e se ouviu, os ignorou</span>, em meio aos gritos a União mandou respostas aos pedidos de ajuda, em uma tentativa de tentar remendar o impossível, não houve resposta.
+Há milhares de anos uma humanidade morta entre as estrelas gravava seus últimos momentos de vida em mensagens SOS, agora finalmente transmitidas desde a Queda da Humanidade na terra, mais de 6 mil anos de dor e sofrimento finalmente reconhecidos. Nada serviu, desde às suplicas para deuses esquecidos, até promessas de retaliação caso não mandassem ajuda, ninguém nunca os ouviu <span class="censor">,e quem ouviu, os ignorou</span>, em meio aos gritos a União mandou respostas aos pedidos de ajuda, em uma tentativa de tentar remendar o impossível, não houve resposta.
 
 Muitos mundos ainda precisavam de ajuda, colônias fracassaram, guerras eclodiram em sistemas exploratórios, muitas vidas foram perdidas antes mesmo de chegar nos mundos que deveriam, os colonos da Apollo tinham criado um império galáctico e tinham acabado de resolver uma guerra interna que tinha durado anos.
 
@@ -72,6 +72,8 @@ Uma expedição do PEU pousa na lua do Berço, Luna, e reativa instalações ant
 São fundadas a Empreendimentos Interplanetários e a Corporação Estrela do Norte, cooperativas de trabalhadores que buscavam transportar materiais e bens pessoais para abastecer seu próprio pessoal que trabalharam na reconstrução do estaleiro.
 
 <span class="censor">Os Tokugawa viram a expansão para a galáxia com sentimentos conflitantes, ao mesmo tem que tinham sangue nos olhos por não só as tecnologias deles terem sido "roubadas" pela União, dadas de graça à população e usadas para facilitar a vida dos trabalhadores sem sequer cobrar nada, por outro lado a expansão em direção à galáxia significava novos mercados em potencial.</span>
+
+<span class="censor">Em 1436 uma operação policial encontra uma estação de pesquisa ilegal, tecnologia dos clonagem com data da abertura dos cofres foi recuperada, durante a operação relataram manipulação remota de memórias, utiliz</span>
 
 [[Arbeiterstimme 1436]]
 
@@ -144,3 +146,6 @@ O Segundo Período de Expansão começa, enquanto o Segundo Comitê inicia um es
 
 Encontramos... Alienígenas?
 ![[MissionStart.png]]
+
+US$ 136,6 bilhões importação do Vietnam
+U$ 13,1 bilhões exportação para o Vietnam 
