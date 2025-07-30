@@ -30,7 +30,7 @@ __"A vida segue um fluxo, nós devemos nos adequar a ele."__
 
 Abya Yala é uma colcha de retalhos cósmica, onde não há assimilação cultural forçada, mas sim hibridização intencional e respeitosa. Os sobreviventes da Terra entenderam que a única forma de não repetir os erros do passado era construir uma nova sociedade sobre as cinzas de todas as lutas esquecidas.
 
-- **Cosmologia viva**: os habitantes veem o planeta como uma entidade consciente — chamada _Ayu-Madre_ — e acreditam que cada ação tecnológica deve ser "cantada" e "semeada" em harmonia com o solo.
+- **Cosmologia viva**: os habitantes veem o planeta como uma entidade consciente — chamada _Ayuki_ — e acreditam que cada ação tecnológica deve ser "cantada" e "semeada" em harmonia com o solo.
 - **Pilotos são Semeadores**: Mechas são cultivados como exoesqueletos semi-orgânicos, conectados à psique do piloto via interface bio-espiritual chamada **Kan-Link**.
 ---
 
